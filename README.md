@@ -1,2 +1,2 @@
 # rentourier-react
-rentourier
+The hands-off approach to finding a rental
